@@ -2,7 +2,7 @@
 Im *djatlasv*.
 Im currently 13 working on random repositories for friends and personal projects. You might see me online every now and then. 
 <div align="center">
-  <img height="200" src="![images](https://github.com/user-attachments/assets/a95409e3-7199-4f01-86f0-20a3d7c238cc)"
+  <img height="200" src="https://github.com/user-attachments/assets/a95409e3-7199-4f01-86f0-20a3d7c238cc"
 "  />
 </div>
 
