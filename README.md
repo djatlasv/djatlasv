@@ -20,3 +20,5 @@ Know:
 <p align="left"> <a target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354990/fedora.svg" alt="fedora" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.png" alt="Arch" width="" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="unbuntu" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Windows_logo_-_2021_%28White%29.svg" alt="Windows" width="40" height="40"/> </a></p>
 <h3 align="left">Links:</h3>
 <a href="https://youtube.com/@Djatlasv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="40" width="40" /></a>
+<h3 align="left">Contact:</h3>
+Email: Djatlasv@proton.me
