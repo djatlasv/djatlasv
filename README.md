@@ -6,6 +6,7 @@ Im currently 13 working on random repositories for friends and personal projects
 "  />
 </div>
 (you must be on dark mode to see most of the stuff.)
+
  - [x] Learn basic python
  - [ ] learn c#
  - [ ] learn c++
