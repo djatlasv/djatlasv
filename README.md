@@ -5,7 +5,7 @@ Im currently 13 working on random repositories for friends and personal projects
   <img height="200" src="https://github.com/user-attachments/assets/a95409e3-7199-4f01-86f0-20a3d7c238cc"
 "  />
 </div>
-
+(you must be on dark mode to see most of the stuff.)
  - [x] Learn basic python
  - [ ] learn c#
  - [ ] learn c++
