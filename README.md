@@ -24,6 +24,7 @@ nope :)
 <h3 align="left">Contact:</h3>
 Email: Djatlasv@proton.me
 
+---
 ![](https://github-readme-stats.shion.dev/api?username=djatlasv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=djatlasv&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=djatlasv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
