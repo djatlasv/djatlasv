@@ -1,34 +1,99 @@
-# **Sup!**
-Im *djatlasv*.
-Im currently 14 working on random repositories for friends and personal projects. You might see me online every now and then. 
 <div align="center">
-  <img height="200" src="https://github.com/user-attachments/assets/a95409e3-7199-4f01-86f0-20a3d7c238cc"
-"  />
-</div>
-(you must be on dark mode to see most of the stuff.)
 
- - [x] Learn basic python
- - [ ] learn c#
- - [ ] learn c++
- - [ ] learn java
- 
-Know:
-<div align="left">
-  <img height="20" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/5ae90bfcbd7ab2f69809b094601f7975c32ae077/src/images/icons/GameEngines/unity.svg"  />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=djatlasv&fontSize=64&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Linux%20%C2%B7%20Embedded%20%C2%B7%20Local%20AI&descSize=20&descAlignY=60" width="100%" alt="header" />
+
+<a href="https://github.com/djatlasv">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Sup!+I'm+Nick;FRC+Team+4418+%7C+Software+%2B+Power;Linux+%7C+Embedded+%7C+Local+AI+%7C+Netsec;Currently+learning+Java+%26+C%2B%2B" alt="typing" />
+</a>
+
 </div>
 
-<h3 align="left">Running:</h3>
-<p align="left"> <a target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354990/fedora.svg" alt="fedora" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://archlinux.org/static/logos/archlinux-logo-light-90dpi.png" alt="Arch" width="" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="unbuntu" width="40" height="40"/> </a> <a target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Windows_logo_-_2021_%28White%29.svg" alt="Windows" width="40" height="40"/> </a></p>
-<h3 align="left">Links:</h3>
-nope :)
-<h3 align="left">Contact:</h3>
-Email: Djatlasv@proton.me
+<br>
 
----
-![](https://github-readme-stats.shion.dev/api?username=djatlasv&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=djatlasv&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=djatlasv&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## About
 
----
+Hobbyist builder working on random repos for friends and personal projects. On FRC Team 4418, I work on software and power. You'll see me online every now and then.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="assets/fastfetch.svg" width="700" alt="fastfetch: djatlasv@github - arch, fedora, ubuntu, windows; niri; FRC team 4418 software + power; learning java, c++, c#" />
+</div>
+
+<br>
+
+## Currently building
+
+<table>
+  <thead>
+    <tr><th align="left">Project</th><th align="left">What it is</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>FRC Team 4418</td><td>Robot software and power systems</td></tr>
+    <tr><td>Inference cluster</td><td>Running large coding models at home, spread across multiple machines</td></tr>
+    <tr><td>DIY iPod</td><td>Custom PCB music player build</td></tr>
+    <tr><td>BLE tracker</td><td>AirTag-sized tracker with a built-in speaker</td></tr>
+    <tr><td>Dotfiles</td><td>Custom niri desktop config, mashing up my favorite rices</td></tr>
+    <tr><td>Cyberdeck</td><td>Multi-laptop pentest lab, one role per machine</td></tr>
+  </tbody>
+</table>
+
+<br>
+
+## Stack
+
+<div align="center">
+
+<b>Running</b>
+
+<img src="https://skillicons.dev/icons?i=arch,ubuntu,windows,bash,git&theme=dark" alt="os" height="48" />
+<img src="https://cdn.simpleicons.org/fedora/51A2DA" alt="fedora" height="48" />
+
+<b>Know</b>
+
+<img src="https://skillicons.dev/icons?i=py,unity,raspberrypi,arduino&theme=dark" alt="know" />
+
+<b>Learning</b>
+
+<img src="https://skillicons.dev/icons?i=cs,cpp,java&theme=dark" alt="learning" />
+
+</div>
+
+<br>
+
+## Progress
+
+<table>
+  <thead>
+    <tr><th align="left">Language</th><th align="left">Status</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Python</td><td>Done (basics)</td></tr>
+    <tr><td>Java</td><td>In progress</td></tr>
+    <tr><td>C#</td><td>Planned</td></tr>
+    <tr><td>C++</td><td>Planned</td></tr>
+  </tbody>
+</table>
+
+<br>
+
+## Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.shion.dev/api?username=djatlasv&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=djatlasv&theme=tokyonight&hide_border=true&layout=compact" alt="langs" />
+
+<img src="https://streak-stats.demolab.com/?user=djatlasv&theme=tokyonight&hide_border=true" alt="streak" />
+
+</div>
+
+<br>
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:Djatlasv@proton.me"><img src="https://img.shields.io/badge/Proton-Djatlasv@proton.me-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="email" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="footer" />
+
+</div>
