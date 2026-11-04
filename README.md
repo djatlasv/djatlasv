@@ -15,7 +15,7 @@
 Hobbyist builder working on random repos for friends and personal projects. On FRC Team 4418, I work on software and power. You'll see me online every now and then.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/djatlasv/djatlasv/blob/main/fastfetch.svg" width="700" alt="fastfetch: djatlasv@github - arch, fedora, ubuntu, windows; niri; FRC team 4418 software + power; learning java, c++, c#" />
+  <img src="https://raw.githubusercontent.com/djatlasv/djatlasv/main/fastfetch.svg" width="700" alt="fastfetch: djatlasv@github - arch, fedora, ubuntu, windows; niri; FRC team 4418 software + power; learning java, c++, c#" />
 </div>
 
 <br>
